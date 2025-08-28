@@ -39,7 +39,7 @@
 📌 **Predictive Modeling/Machine Learning** – Built ML models for forecasting KPIs using Python & Scikit-learn --https://github.com/ATML2020/MAchineLearning 
 
 📌 **DataAnalytics** –-Data Analysis, Data Visualisation,Actionable Insights (https://github.com/ATML2020/Analytical)  
-📌 **FlaskApplication** – (https://github.com/ATML2020/July25_Flask_Web_App-1)**  
+📌 **FlaskApplication** – (https://github.com/ATML2020/July25_Flask_Web_App-1)
 
 ---
 
