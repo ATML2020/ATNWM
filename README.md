@@ -1,46 +1,49 @@
-# 👋 Hi, I'm Anurag Tiwari  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="welcome banner"/>
+</p>
 
-🚀 **Data Scientist | Machine Learning Engineer**  
-
-I am passionate about turning data into actionable insights and deploying scalable machine learning solutions.  
-With **3.6+ years of Data Science experience** (and 14 years total professional experience), I specialize in solving business problems using data-driven approaches.  
-
----
-
-## 🔧 Skills & Tools
-
-- **Programming & Querying:** Python, SQL  
-- **Data Science & Machine Learning:** Supervised Learning, Unsupervised Learning, Feature Engineering, Model Deployment  
-- **Python Libraries:** Pandas, NumPy, Scikit-learn, PySpark  
-- **MLOps & Model Tracking:** MLflow, AWS SageMaker  
-- **Other Tools:** CI/CD Pipelines, Data Visualization  
+<h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
+<h3 align="center">🚀 Data Scientist | Machine Learning Engineer</h3>
 
 ---
 
-## 📂 Featured Projects
+## 🌟 About Me  
 
-🔹 [Project 1 – Predictive Modeling](#)  
-*Built supervised ML models to forecast business KPIs and optimized performance with feature selection.*  
+<img align="right" alt="AI Coder" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔹 [Project 2 – Customer Segmentation](#)  
-*Applied unsupervised learning (clustering) on customer data to derive business insights.*  
-
-🔹 [Project 3 – ML Pipeline with MLflow & SageMaker](#)  
-*Developed an end-to-end ML workflow with experiment tracking, model registry, and deployment on AWS SageMaker.*  
-
----
-
-## 🌱 Currently Exploring
-- Advanced MLOps practices  
-- Large Language Models (LLMs) and Generative AI  
-- Optimizing big data workflows with PySpark  
+- 🎯 Passionate about solving **business problems using data-driven approaches**  
+- 🤖 Skilled in **Supervised & Unsupervised Learning**  
+- 📊 Experienced with **MLOps tools (MLflow, AWS SageMaker)**  
+- ⚡ Love working with **big data (PySpark) and scalable ML solutions**  
+- 🌱 Currently learning **LLMs & Generative AI**  
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](#)  
-- 📧 Email: anuragtiwari@example.com  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,pytorch,tensorflow,sklearn,pandas,numpy" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect for collaborations!*  
+## 🚀 Projects  
+
+📌 **Predictive Modeling** – Built ML models for forecasting KPIs using Python & Scikit-learn  
+📌 **Customer Segmentation** – Applied clustering to group customers and drive marketing insights  
+📌 **MLOps Pipeline** – Developed end-to-end ML workflow with **MLflow & AWS SageMaker**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"
